@@ -208,3 +208,6 @@ __marimo__/
 
 # Dataset directory (contains user-generated photos)
 dataset/
+
+# Test files
+test_dataset_creator.py
